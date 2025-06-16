@@ -1,11 +1,11 @@
 <?php
 
-namespace Wistrix\Onboard;
+namespace Xoiatix\Onboard;
 
 use Closure;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
-use Wistrix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Concerns\Onboardable;
 
 abstract class Middleware
 {

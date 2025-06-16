@@ -1,13 +1,13 @@
 <?php
 
-namespace Wistrix\Onboard\Facades;
+namespace Xoiatix\Onboard\Facades;
 
 use Closure;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Facade;
-use Wistrix\Onboard\Concerns\Onboardable;
-use Wistrix\Onboard\Flows;
-use Wistrix\Onboard\Step;
+use Xoiatix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Flows;
+use Xoiatix\Onboard\Step;
 
 /**
  * @method static Step register(string $model, string $route, Closure $validate)

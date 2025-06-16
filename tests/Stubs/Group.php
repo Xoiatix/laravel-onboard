@@ -1,9 +1,9 @@
 <?php
 
-namespace Wistrix\Onboard\Tests\Stubs;
+namespace Xoiatix\Onboard\Tests\Stubs;
 
-use Wistrix\Onboard\Concerns\Onboard;
-use Wistrix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Concerns\Onboard;
+use Xoiatix\Onboard\Concerns\Onboardable;
 
 class Group implements Onboardable
 {

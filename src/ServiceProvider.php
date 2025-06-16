@@ -1,6 +1,6 @@
 <?php
 
-namespace Wistrix\Onboard;
+namespace Xoiatix\Onboard;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 

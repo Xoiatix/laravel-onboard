@@ -1,9 +1,9 @@
 <?php
 
-namespace Wistrix\Onboard\Tests;
+namespace Xoiatix\Onboard\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use Wistrix\Onboard\ServiceProvider;
+use Xoiatix\Onboard\ServiceProvider;
 
 class TestCase extends Orchestra
 {

@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Wistrix\Onboard\Tests\Stubs\User;
-use Wistrix\Onboard\Tests\Stubs\Middleware;
+use Xoiatix\Onboard\Tests\Stubs\User;
+use Xoiatix\Onboard\Tests\Stubs\Middleware;
 
 beforeEach(function () {
     $this->user = new User;

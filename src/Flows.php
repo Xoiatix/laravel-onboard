@@ -1,10 +1,10 @@
 <?php
 
-namespace Wistrix\Onboard;
+namespace Xoiatix\Onboard;
 
 use Closure;
 use Illuminate\Support\Collection;
-use Wistrix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Concerns\Onboardable;
 
 class Flows
 {

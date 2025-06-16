@@ -1,7 +1,7 @@
 <?php
 
-use Wistrix\Onboard\Step;
-use Wistrix\Onboard\Tests\Stubs\User;
+use Xoiatix\Onboard\Step;
+use Xoiatix\Onboard\Tests\Stubs\User;
 
 beforeEach(function () {
     $this->user = new User;

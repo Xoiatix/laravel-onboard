@@ -1,8 +1,8 @@
 <?php
 
-namespace Wistrix\Onboard\Concerns;
+namespace Xoiatix\Onboard\Concerns;
 
-use Wistrix\Onboard\Manager;
+use Xoiatix\Onboard\Manager;
 use Illuminate\Support\Facades\App;
 
 trait Onboard

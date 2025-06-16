@@ -1,9 +1,9 @@
 <?php
 
-namespace Wistrix\Onboard;
+namespace Xoiatix\Onboard;
 
 use Closure;
-use Wistrix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Concerns\Onboardable;
 use Illuminate\Support\Collection;
 
 class Manager

@@ -1,17 +1,17 @@
 {
-  "name": "wistrix/laravel-onboard",
+  "name": "xoiatix/laravel-onboard",
   "description": "Laravel package to help track onboarding steps.",
-  "homepage": "https://github.com/wistrix/laravel-onboard",
+  "homepage": "https://github.com/xoiatix/laravel-onboard",
   "license": "MIT",
   "keywords": [
-    "wistrix",
+    "xoiatix",
     "laravel",
     "laravel onboard"
   ],
   "authors": [
     {
       "name": "Liam Norris",
-      "email": "hello@wistrix.com"
+      "email": "hello@xoiatix.com"
     }
   ],
   "require": {
@@ -25,12 +25,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Wistrix\\Onboard\\": "src/"
+      "Xoiatix\\Onboard\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Wistrix\\Onboard\\Tests\\": "tests"
+      "Xoiatix\\Onboard\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -45,7 +45,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Wistrix\\Onboard\\ServiceProvider"
+        "Xoiatix\\Onboard\\ServiceProvider"
       ]
     }
   },

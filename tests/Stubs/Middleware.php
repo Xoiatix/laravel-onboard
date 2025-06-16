@@ -1,10 +1,10 @@
 <?php
 
-namespace Wistrix\Onboard\Tests\Stubs;
+namespace Xoiatix\Onboard\Tests\Stubs;
 
 use Illuminate\Http\Request;
-use Wistrix\Onboard\Concerns\Onboardable;
-use Wistrix\Onboard\Middleware as BaseMiddleware;
+use Xoiatix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Middleware as BaseMiddleware;
 
 class Middleware extends BaseMiddleware
 {

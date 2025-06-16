@@ -1,10 +1,10 @@
 <?php
 
-namespace Wistrix\Onboard\Tests\Stubs;
+namespace Xoiatix\Onboard\Tests\Stubs;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
-use Wistrix\Onboard\Concerns\Onboard;
-use Wistrix\Onboard\Concerns\Onboardable;
+use Xoiatix\Onboard\Concerns\Onboard;
+use Xoiatix\Onboard\Concerns\Onboardable;
 
 class User extends Authenticatable implements Onboardable
 {
